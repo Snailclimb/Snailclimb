@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋 
+
+Please let me tell you a little bit about myself.
+
+I'm the author of [JavaGuide](https://github.com/Snailclimb/JavaGuide). I started this project in my junior year . I will always maintain and improve.
 
 <!--
 **Snailclimb/Snailclimb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact me
+
