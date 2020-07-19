@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Contact me
+### Contact me 📱
 
 1. [bilibili](https://space.bilibili.com/504390397)
 2. [zhihu](https://www.zhihu.com/people/javaguide)
