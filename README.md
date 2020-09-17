@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 
 1. [bilibili](https://space.bilibili.com/504390397)
 2. [zhihu](https://www.zhihu.com/people/javaguide)
-3. WeChat public account(微信公众号) : [JavaGuide](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/format,png.jpeg)
-
+3. WeChat public account(微信公众号) : JavaGuide
 
