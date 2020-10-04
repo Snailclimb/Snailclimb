@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 2. [知乎@JavaGuide](https://www.zhihu.com/people/javaguide)
 3. [微信公众号@JavaGuide](https://www.yuque.com/docs/share/71251673-1fef-416e-93d7-489a25a9eda5?#) 
 
-## 我的开源项目
+## Project
 
 1. [JavaGuide](https://github.com/Snailclimb/JavaGuide) ：「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 2. [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) ：A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程）
