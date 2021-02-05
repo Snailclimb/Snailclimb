@@ -5,3 +5,4 @@
 1. [哔哩哔哩@Guide哥](https://space.bilibili.com/504390397)
 2. [知乎@JavaGuide](https://www.zhihu.com/people/javaguide)
 3. [微信公众号@JavaGuide](https://www.yuque.com/docs/share/71251673-1fef-416e-93d7-489a25a9eda5?#) 
+4. WeChat:guidege666
