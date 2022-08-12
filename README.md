@@ -1,12 +1,13 @@
-我是 Guide哥，一个工作整整两年，接触编程已经 6 年有余的程序员。大三开源了[JavaGuide](https://github.com/Snailclimb/JavaGuide) （如果无法访问Github，可以访问国内的码云：[JavaGuide](https://gitee.com/SnailClimb/JavaGuide)），目前已经 100k+ Star。
+19年毕业，本科是软件工程，喜欢写作，小时候曾幻想以后写一本爆火的小说。大三开源 [JavaGuide](https://github.com/Snailclimb/JavaGuide) 并一直完善至今。
 
-未来几年，希望持续完善自己开源的这些项目，争取能够帮助更多学习 Java 的小伙伴！共勉！凎！
+关于作者：
 
-想要了解更多关于我的信息，[点击即可了解我的个人经历](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTA0Njk0OA==&action=getalbum&album_id=2019767912546336773#wechat_redirect)。
+- [我曾经也是网瘾少年](https://javaguide.cn/about-the-author/internet-addiction-teenager.html)
+- [害，毕业三年了！](https://javaguide.cn/about-the-author/my-college-life.html)
+- [我的知识星球快 3 岁了！](https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html)
 
-你可以在下面这些平台找到我:
+联系我:
 
-- [哔哩哔哩@Guide哥](https://space.bilibili.com/504390397)
 - [知乎@JavaGuide](https://www.zhihu.com/people/javaguide)
 - [微信公众号@JavaGuide](https://www.yuque.com/docs/share/71251673-1fef-416e-93d7-489a25a9eda5?#)
 
