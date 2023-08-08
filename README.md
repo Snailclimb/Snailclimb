@@ -9,5 +9,5 @@
 联系我:
 
 - [知乎@JavaGuide](https://www.zhihu.com/people/javaguide)
-- [微信公众号@JavaGuide](https://www.yuque.com/docs/share/71251673-1fef-416e-93d7-489a25a9eda5?#)
+- [微信公众号@JavaGuide](https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png)
 
