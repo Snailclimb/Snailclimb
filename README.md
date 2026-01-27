@@ -1,6 +1,6 @@
 # Hi there, 我是 Guide👋 🐌
 
-19 年毕业于软件工程专业，从大三开始开源 **JavaGuide** 并维护至今。
+19 年毕业于软件工程专业，大三开源 **JavaGuide** 并维护至今。
 
 ## 🚀 核心项目 (Featured Projects)
 
