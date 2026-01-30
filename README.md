@@ -8,11 +8,6 @@
 * **[interview-guide](https://github.com/Snailclimb/interview-guide)** : 🌟 **AI + Java 21 实践**。基于 Spring Boot 4.0 和 Spring AI 实现的简历智能分析、AI 模拟面试及知识库 RAG 检索系统。
 * **[guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework)** : 手写 RPC 框架，基于 Netty + Kyro + Zookeeper，适合深度理解分布式通信原理。
 
-## 📈 社区影响力 (Stats & Impact)
-
-![Snailclimb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snailclimb&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snailclimb&layout=compact&theme=radical)
-
 ## 🤝 联系与关注 (Connect with Me)
 
 * **微信公众号:** 微信搜索 **“JavaGuide”**
