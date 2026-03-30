@@ -4,7 +4,7 @@
 
 ## 🚀 核心项目 (Featured Projects)
 
-* **[JavaGuide](https://github.com/Snailclimb/JavaGuide)** : 🏆 **154k+ Stars**。全网百万开发者首选的 Java 面试 + 后端通用面试指南，涵盖计算机基础、数据库、分布式、高并发与系统设计。
+* **[JavaGuide](https://github.com/Snailclimb/JavaGuide)** : ⭐️ **154k+ Stars**。Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发。
 * **[interview-guide](https://github.com/Snailclimb/interview-guide)** : 🌟 **AI + Java 21 实践**。基于 Spring Boot 4.0 和 Spring AI 实现的简历智能分析、AI 模拟面试及知识库 RAG 检索系统。
 * **[guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework)** : 手写 RPC 框架，基于 Netty + Kyro + Zookeeper，适合深度理解分布式通信原理。
 
