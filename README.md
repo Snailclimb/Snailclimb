@@ -29,7 +29,6 @@
 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 面试与后端开发知识指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 156k+ Stars / 46k+ Forks |
 | [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) | 基于 Netty、Kryo、Zookeeper 的自定义 RPC 框架，配套详细实现过程和教程 | 4.4k+ Stars |
 | [interview-guide](https://github.com/Snailclimb/interview-guide) | AI 面试实战项目，支持简历智能分析、AI 模拟面试、知识库 RAG 检索等功能 | 2.5k+ Stars |
-| [spring-security-jwt-guide](https://github.com/Snailclimb/spring-security-jwt-guide) | Spring Boot 3.5 + Java 21 的 Spring Security JWT 示例，包含认证授权与权限校验 | 1.4k+ Stars |
 | [AIGuide](https://github.com/Snailclimb/AIGuide) | AI 应用开发、AI 编程实战与面试指南，覆盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等主题 | 230+ Stars |
 
 ## ✍️ Topics I Write About
