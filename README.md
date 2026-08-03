@@ -17,19 +17,17 @@
 
 ## 🧭 Currently Focused On
 
-- 持续维护 **JavaGuide**：Java 面试与后端知识体系，覆盖计算机基础、数据库、分布式、高并发、系统设计和 AI 应用开发，累计 **156k+ Stars**。
+- 持续维护 **JavaGuide**：Java 面试与后端知识体系，覆盖计算机基础、数据库、分布式、高并发、系统设计和 AI 应用开发，累计 **157k+ Stars**。
 - 更新 **AIGuide**：面向后端开发者梳理 LLM、Agent、RAG、MCP、Claude Code、Codex、提示词工程与 AI 工程实践。
-- 打磨 **interview-guide**：基于 Spring Boot 4.1、Java 21、Spring AI 2.0、PostgreSQL、pgvector、Redis 的 AI 面试实战项目。
-- 维护可落地的后端示例与教程：RPC 框架、Spring Security JWT、Netty 实战、文档站搭建等。
+- 打磨 **interview-guide**：基于 Spring Boot 4.1、Java 25、Spring AI 2.0、PostgreSQL、pgvector、Redis 的 AI 面试实战项目。
 
 ## 🚀 Featured Projects
 
 | Project | What it covers | Status |
 | --- | --- | --- |
-| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 面试与后端开发知识指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 156k+ Stars / 46k+ Forks |
-| [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) | 基于 Netty、Kryo、Zookeeper 的自定义 RPC 框架，配套详细实现过程和教程 | 4.4k+ Stars |
-| [interview-guide](https://github.com/Snailclimb/interview-guide) | AI 面试实战项目，支持简历智能分析、AI 模拟面试、知识库 RAG 检索等功能 | 2.5k+ Stars |
-| [AIGuide](https://github.com/Snailclimb/AIGuide) | AI 应用开发、AI 编程实战与面试指南，覆盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等主题 | 230+ Stars |
+| [JavaGuide](https://github.com/Snailclimb/JavaGuide) | Java 面试与后端开发知识指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 | 157.5k Stars / 46.2k Forks |
+| [interview-guide](https://github.com/Snailclimb/interview-guide) | 基于 Spring Boot 4.1、Java 25 与 Spring AI 2.0 的智能 AI 面试官平台，支持简历分析、文字和语音模拟面试、面试安排及知识库 RAG | 2.9k Stars / 660 Forks |
+| [AIGuide](https://github.com/Snailclimb/AIGuide) | 面向开发者的 AI 应用开发、AI 编程实战与面试指南，覆盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等核心技术与工程实践 | 489 Stars / 58 Forks |
 
 ## ✍️ Topics I Write About
 
@@ -48,7 +46,7 @@
 
 > **“既然选择了远方，便只顾风雨兼程。”**
 >
-> 从迷茫的校园时光到坚持开源至今，我希望我的经历能给你带来一点点力量。
+> 从迷茫的校园时光到坚持开源至今，我希望我的经历能给你一点力量。
 
 - [我曾经也是网瘾少年](https://javaguide.cn/about-the-author/internet-addiction-teenager.html)
 - [害，毕业三年了！](https://javaguide.cn/about-the-author/my-college-life.html)
